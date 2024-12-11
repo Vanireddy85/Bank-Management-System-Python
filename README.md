@@ -28,41 +28,21 @@ deposit() : This function allows the user to deposit money into their bank accou
 withdraw() : This function allows the user to withdraw money from their bank account, if the balance is sufficient, and updates the balance accordingly.
 view_transaction() : This function allows the user to view their transaction history for the current session.
 
-The code also defines the following labels and buttons for the game:
-
-. Labels:
+**The code also defines the following labels and buttons for the game:**
+Labels:
 name_label : This label displays "Name:" in the "Create Account" frame.
 age_label : This label displays "Age:" in the "Create Account" frame.
 salary_label : This label displays "Salary:" in the "Create Account" frame.
 pin_label : This label displays "PIN:" in the "Create Account" frame.
 login_pin_label : This label displays "PIN:" in the "Login" frame.
-. Entry widgets:
+Entry widgets:
 name_entry : This Entry widget allows the user to enter their name in the "Create Account" frame.
 age_entry : This Entry widget allows the user to enter their age in the "Create Account" frame.
 salary_entry : This Entry widget allows the user to enter their salary in the "Create Account" frame.
 pin_entry : This Entry widget allows the user to enter their PIN in the "Create Account" frame.
 login_pin_entry : This Entry widget allows the user to enter their PIN in the "Login" frame.
-. Buttons:
+Buttons:
 create_account_button : This button calls the create_account() function when clicked.
-
 login_button : This button calls the login() function when clicked.
 
-o
 
-o
-
-o
-
-o
-
-o
-
-O
-
-O
-
-o
-
-O
-
-o

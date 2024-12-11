@@ -29,6 +29,7 @@ withdraw() : This function allows the user to withdraw money from their bank acc
 view_transaction() : This function allows the user to view their transaction history for the current session.
 
 **The code also defines the following labels and buttons for the game:**
+
 Labels:
 name_label : This label displays "Name:" in the "Create Account" frame.
 age_label : This label displays "Age:" in the "Create Account" frame.
